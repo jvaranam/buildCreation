@@ -66,3 +66,5 @@ https://medium.com/@dalenguyen/working-with-android-emulator-through-command-lin
 https://developer.android.com/studio/command-line/sdkmanager
 https://stackoverflow.com/questions/35476182/updating-google-play-services-in-emulator
 https://ionicframework.com/docs/cli/commands/cordova-emulate
+
+https://www.venafi.com/education-center/code-signing/what-is-code-signing#benefitofcodesigning
